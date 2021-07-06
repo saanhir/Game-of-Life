@@ -1,5 +1,10 @@
 # Game-of-Life
 
+Installation:
+Open DisplayPanel, Field, and FieldGUI in an IDE, then run the main FieldGUI class.
+
+
+Description:
 Launches a window on which the starting setup can be selected.
 
 Live cells can be created via mouse clicks on the white panel while it is inactive.
